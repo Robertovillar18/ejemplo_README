@@ -95,26 +95,6 @@ Maybe you can mention me or this repo in the acknowledgements too
   </ul>
 </details>
 
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.mysql.com/">MySQL</a></li>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-    <li><a href="https://redis.io/">Redis</a></li>
-    <li><a href="https://neo4j.com/">Neo4j</a></li>
-    <li><a href="https://www.mongodb.com/">MongoDB</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>DevOps</summary>
-  <ul>
-    <li><a href="https://www.docker.com/">Docker</a></li>
-    <li><a href="https://www.jenkins.io/">Jenkins</a></li>
-    <li><a href="https://circleci.com/">CircleCLI</a></li>
-  </ul>
-</details>
-
 <!-- Features -->
 ### :dart: Features
 
@@ -122,15 +102,15 @@ Maybe you can mention me or this repo in the acknowledgements too
 - Feature 2
 - Feature 3
 
-<!-- Color Reference -->
-### :art: Color Reference
+<!-- References -->
+### :art: References
 
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Primary Color | ![#222831](https://via.placeholder.com/10/222831?text=+) #222831 |
-| Secondary Color | ![#393E46](https://via.placeholder.com/10/393E46?text=+) #393E46 |
-| Accent Color | ![#00ADB5](https://via.placeholder.com/10/00ADB5?text=+) #00ADB5 |
-| Text Color | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
+|                   References                                                     |
+| ----------------------------------------------------------------------------------- |
+| Ref1  |
+| Ref2  |
+| Ref3 |
+| Ref4  |
 
 
 <!-- Env Variables -->
