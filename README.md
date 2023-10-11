@@ -39,6 +39,9 @@ Maybe you can mention me or this repo in the acknowledgements too
 
 <!-- Screenshots -->
 ### :camera: Screenshots
+Este es el primer proyecto
+para ver mas info, vaya a 
+<a href="https://github.com/Robertovillar18/ejemplo_README/tree/main/nuevacarpeta">aqui</a>
 
 <div align="center"> 
   <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
